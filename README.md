@@ -1,3 +1,3 @@
 # Online shop
 
-# We create online shop with using react
+We create online shop with using react
